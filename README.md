@@ -1,4 +1,6 @@
 # Password Manager
 
-At the moment, this program is only a CLI program. Hopefully, in the future, it will be a GUI program.
+Honestly, I do not know what to write here.
+
+If someone has accidentally stumbled across this repository, please tell me how to remove the previous files over here
 
